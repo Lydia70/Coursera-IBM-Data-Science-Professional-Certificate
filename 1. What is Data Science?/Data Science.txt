@@ -1,0 +1,1 @@
+This course has a final assignment on your interpretation of data science. You have to specify in which industry you find interesting to get a data science job. Also, you have to describe the contents of a Data Science report.
