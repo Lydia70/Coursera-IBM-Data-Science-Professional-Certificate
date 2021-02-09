@@ -1,0 +1,1 @@
+In this course, you learn more about database software, software related to data science (like Python and R Studio), how to use Github and Watson studio, etc. 
