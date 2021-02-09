@@ -14,4 +14,4 @@ The IBM Data Science Track consists of 9 courses, including:<br>
 8. Machine Learning with Python <br>
 9. Capstone Project.
 
-In this repository, I post my assignment I have completed.
+In this repository, I post my assignments I have completed.
